@@ -1,0 +1,33 @@
+#para1
+{
+    border: 2px solid black;
+}
+#img1
+{
+    border-radius: 170px;
+    margin-left:0%;
+    border:solid 2px black;
+    border-left:200px ;
+}
+#myid
+{
+    border-top: 2px solid teal;
+    border-left: 2px solid teal;
+    border-right: 2px solid teal;
+    border-bottom: 2px solid teal;
+    background-color: #DDDDDD;
+    margin:solid black;
+}
+#id1
+{
+    border:1px solid black;
+}
+.container
+{
+    border:5px solid rgb(83, 5, 83);
+}
+#para2
+{
+    text-align:justify;
+    
+}
